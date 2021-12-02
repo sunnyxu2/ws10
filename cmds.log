@@ -1,0 +1,3 @@
+    1  time python3 numbers.py
+    2  time ./numbers.sh amazon_reviews_us_Books_v1_02.tsv 9
+    3  history > ws10/cmds.log
